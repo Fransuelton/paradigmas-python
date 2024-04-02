@@ -4,3 +4,5 @@ def regressiva(x):
     else:
         print(x)
         regressiva(x-1)
+
+regressiva(13)
